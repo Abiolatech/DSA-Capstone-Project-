@@ -25,5 +25,22 @@ In the initial phase of the Data cleaning and preparations,we perform the follow
 
 ### Exploratory Data Analysis 
  EDA involves the exploring of the Data to answer some questions about Data such as;
-  
+- What is the average discount percentage by product category?
+- How many products are listed?
+- What is the total number of reviews per category?
+- which products have the highest average ratings?
+- What is the average actual price vs the discounted price by category?
+- which products have the highest number of reviews? 
+- How many products have a discount of 50% or more?
+- What is the distribution of product ratings?
+- What is the total potential revenue?
+- What is the number of unique products per price range bucket? 
+- How does the rating relate to the level of discount 
+- How many products have fewer than 1,000 reviews? 
+- which categories have products with the highest discounts? 
+- Identify the top 5 products in terms of rating?
+
+### Data Analysis 
+This is where we generated insights into product performance, customer behavior and market trends.Created an Excel Dashboard visualize and facilitate the data after successfully analyzed  data to answer 14 key business questions . 
+
   
